@@ -64,5 +64,6 @@ buck-out/
 /vendor/bundle/
 
 
-# tmp
+# custom
 .tmp/
+.vscode

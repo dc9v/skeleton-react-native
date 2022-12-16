@@ -25,18 +25,10 @@ But, I'll do best so that there is no problem for someone to use it codes.
   `/tsconfig.json`
 
   ```json
-  .
-  .
-  .
-
   "baseUrl": ".",
   "paths": {
     "/src/*":  [ "./src/*" ]
   }
-
-  .
-  .
-  .
   ```
 
   ---
@@ -44,10 +36,6 @@ But, I'll do best so that there is no problem for someone to use it codes.
   `/.babelrc`
 
   ```json
-  .
-  .
-  .
-
   "plugins": [
     [
       "module-resolver",
@@ -68,10 +56,6 @@ But, I'll do best so that there is no problem for someone to use it codes.
         ]
       }
     ],
-
-    .
-    .
-    .
   ```
 
 - assets 리소스 관리

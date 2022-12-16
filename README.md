@@ -1,4 +1,4 @@
-# React Native Boilerplate
+# Cute React Native Boilerplate
 
 주의:
 
@@ -17,14 +17,6 @@ But, I'll do best so that there is no problem for someone to use it codes.
 ```
 
 ## 코드 작성 시 고려한 부분
-
-- TypeScript의 타입선언
-
-- 간결한 리소스 구조
-
-- 쉽게 읽을 수 있는 코드
-
-## 코드를 작성하기 전 알아둘 사항
 
 - 절대경로 설정
 
@@ -97,15 +89,3 @@ But, I'll do best so that there is no problem for someone to use it codes.
     assets: [ "./src/assets/fonts" ],
   };
   ```
-
-
-## 예제
-
-이 프로젝트를 활용하면서 주로 쓰는 상용구의 예제를 몇 가지 작성해 놓았습니다.
-
-### 컴포넌트
-
-- 함수형 컴퍼넌트
-
-- 클래스형 컴퍼넌트
-

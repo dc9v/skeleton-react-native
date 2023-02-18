@@ -1,8 +1,8 @@
-# Cute React Native Boilerplate
+# skeleton-react-native
 
 주의:
 
-이 프로젝트는 트렌드를 따라가는 보일러플레이트가 아닙니다.
+이 프로젝트는 트렌드를 따라가는 리액트네이티브 가 아닙니다.
 
 개인적인 프로젝트를 위해 작성했습니다.
 
